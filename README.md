@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⏱️ ZENITH TIMER
+# ZENITH TIMER
 
 **An intuitive CLI-based terminal utility for real-time clock tracking and date monitoring.**
 
@@ -29,7 +29,7 @@
 
 ## Features
 
-* **⏱️ Real-Time Live Clock:** Displays a continuously updating live clock showing the exact Year, Month, Day, Hour, Minute, and Second.
+* **Real-Time Live Clock:** Displays a continuously updating live clock showing the exact Year, Month, Day, Hour, Minute, and Second.
 * **Current Time Snapshot:** Quick command to fetch and log the exact system timestamp (`YYYY--MM--DD = HH:MM:SS`).
 * **Colorful Terminal Interface:** Uses ANSI escape codes for color-coded status banners, prompts, and error messages.
 * **Fault Tolerant Input:** Case-insensitive command handling and smooth exception management.
