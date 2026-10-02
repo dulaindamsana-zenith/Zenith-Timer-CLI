@@ -27,16 +27,16 @@
 
 ---
 
-## 🌟 Features
+## Features
 
 * **⏱️ Real-Time Live Clock:** Displays a continuously updating live clock showing the exact Year, Month, Day, Hour, Minute, and Second.
-* **📅 Current Time Snapshot:** Quick command to fetch and log the exact system timestamp (`YYYY--MM--DD = HH:MM:SS`).
-* **🎨 Colorful Terminal Interface:** Uses ANSI escape codes for color-coded status banners, prompts, and error messages.
-* **🛡️ Fault Tolerant Input:** Case-insensitive command handling and smooth exception management.
+* **Current Time Snapshot:** Quick command to fetch and log the exact system timestamp (`YYYY--MM--DD = HH:MM:SS`).
+* **Colorful Terminal Interface:** Uses ANSI escape codes for color-coded status banners, prompts, and error messages.
+* **Fault Tolerant Input:** Case-insensitive command handling and smooth exception management.
 
 ---
 
-## 🛠️ Languages & Tech Stack
+## Languages & Tech Stack
 
 | Technology | Usage |
 | :--- | :--- |
@@ -46,7 +46,7 @@
 
 ---
 
-## 📸 Interface Preview
+## Interface Preview
 
 ### Main Menu & Navigation
 ```text
@@ -65,7 +65,7 @@ Year: 2026 | Month: 09 | Day: 30 | Hour: 17 | Minute: 52 | Seconds: 45
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 Make sure you have [Python 3](https://www.python.org/downloads/) installed on your machine.
@@ -85,7 +85,7 @@ Make sure you have [Python 3](https://www.python.org/downloads/) installed on yo
 
 ---
 
-## 🎮 How to Use
+## How to Use
 
 | Command | Aliases | Description |
 | :--- | :--- | :--- |
@@ -96,6 +96,6 @@ Make sure you have [Python 3](https://www.python.org/downloads/) installed on yo
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Developed by **Dulain Damsana**
