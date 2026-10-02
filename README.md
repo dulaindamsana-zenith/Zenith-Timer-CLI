@@ -99,3 +99,8 @@ Make sure you have [Python 3](https://www.python.org/downloads/) installed on yo
 ## Author
 
 Developed by **Dulain Damsana**
+
+---
+
+## License
+This project is licensed under the MIT license
